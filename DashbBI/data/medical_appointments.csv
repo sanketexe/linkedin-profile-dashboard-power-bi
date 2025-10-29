@@ -1,0 +1,851 @@
+Appointment_ID,Person_ID,Appointment_Date,Doctor_Type,Diagnosis,Treatment_Prescribed,Follow_Up_Required,Appointment_Cost,Insurance_Coverage
+APT00559,P0223,2023-10-28,Sleep Specialist,Lifestyle Issues,Medication,No,294,Partial
+APT00180,P0346,2023-10-28,Psychologist,Stress Management,None,No,192,Full
+APT00522,P0021,2023-10-29,Cardiologist,Lifestyle Issues,Medication,Yes,333,Full
+APT00303,P0171,2023-10-30,Cardiologist,Lifestyle Counseling,None,Yes,335,Partial
+APT00163,P0313,2023-10-31,Cardiologist,Chronic Insomnia,Medication,Yes,305,None
+APT00421,P0373,2023-10-31,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,155,Full
+APT00610,P0342,2023-11-02,General Practitioner,Stress Management,Exercise Program,Yes,143,Partial
+APT00032,P0285,2023-11-03,Nutritionist,Sleep Apnea,CPAP Machine,Yes,174,Full
+APT00683,P0026,2023-11-03,General Practitioner,Sleep Apnea,CPAP Machine,Yes,148,Full
+APT00231,P0030,2023-11-04,General Practitioner,Stress Management,Lifestyle Changes,No,159,Partial
+APT00391,P0322,2023-11-05,General Practitioner,Preventive Care,Stress Reduction Techniques,No,166,Full
+APT00432,P0223,2023-11-06,General Practitioner,Chronic Insomnia,Medication,Yes,119,Partial
+APT00367,P0082,2023-11-06,Cardiologist,Lifestyle Counseling,None,No,276,Full
+APT00845,P0178,2023-11-07,Cardiologist,Lifestyle Issues,Sleep Hygiene Education,Yes,271,Full
+APT00150,P0206,2023-11-08,General Practitioner,Preventive Care,Exercise Program,No,113,Full
+APT00797,P0302,2023-11-09,General Practitioner,Preventive Care,Lifestyle Changes,No,145,None
+APT00291,P0061,2023-11-12,General Practitioner,Chronic Insomnia,Medication,Yes,105,Full
+APT00734,P0045,2023-11-16,Cardiologist,Lifestyle Counseling,Lifestyle Changes,No,276,Partial
+APT00184,P0333,2023-11-16,Sleep Specialist,Preventive Care,Exercise Program,Yes,236,Partial
+APT00679,P0293,2023-11-17,General Practitioner,Stress Management,None,Yes,143,Partial
+APT00746,P0319,2023-11-17,Nutritionist,Sleep Apnea,CPAP Machine,Yes,180,Partial
+APT00225,P0044,2023-11-18,General Practitioner,Lifestyle Counseling,None,No,122,Full
+APT00484,P0006,2023-11-21,General Practitioner,Sleep Apnea,CPAP Machine,Yes,91,Partial
+APT00464,P0062,2023-11-22,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,Yes,295,None
+APT00003,P0116,2023-11-22,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,145,Full
+APT00591,P0267,2023-11-22,General Practitioner,Stress Management,Lifestyle Changes,No,92,None
+APT00768,P0275,2023-11-23,Sleep Specialist,Lifestyle Issues,Sleep Hygiene Education,Yes,237,Full
+APT00021,P0094,2023-11-24,Sleep Specialist,No Issues Found,None,Yes,233,Full
+APT00708,P0052,2023-11-24,General Practitioner,Sleep Apnea,CPAP Machine,Yes,120,Partial
+APT00713,P0119,2023-11-24,Nutritionist,Sleep Apnea,CPAP Machine,Yes,156,Full
+APT00499,P0215,2023-11-25,Psychologist,Lifestyle Counseling,Lifestyle Changes,No,172,Partial
+APT00697,P0219,2023-11-26,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,136,Full
+APT00831,P0373,2023-11-26,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,165,Partial
+APT00015,P0072,2023-11-27,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,264,None
+APT00743,P0153,2023-11-28,General Practitioner,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,101,Partial
+APT00103,P0020,2023-11-29,General Practitioner,Chronic Insomnia,Medication,Yes,136,Partial
+APT00014,P0193,2023-11-29,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,308,Full
+APT00238,P0084,2023-11-29,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,196,None
+APT00438,P0284,2023-12-03,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,119,Partial
+APT00505,P0274,2023-12-06,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,141,Full
+APT00475,P0316,2023-12-06,General Practitioner,Lifestyle Issues,Lifestyle Changes,Yes,119,None
+APT00448,P0255,2023-12-07,Sleep Specialist,Lifestyle Counseling,Exercise Program,No,288,Full
+APT00344,P0296,2023-12-07,Sleep Specialist,Chronic Insomnia,Medication,Yes,254,Full
+APT00742,P0175,2023-12-08,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,115,Full
+APT00445,P0347,2023-12-09,Sleep Specialist,Chronic Insomnia,Medication,Yes,296,Full
+APT00787,P0170,2023-12-09,General Practitioner,Lifestyle Issues,Cognitive Behavioral Therapy,No,122,Full
+APT00049,P0125,2023-12-11,Psychologist,Preventive Care,None,No,218,None
+APT00420,P0196,2023-12-12,General Practitioner,Stress Management,Lifestyle Changes,No,169,Partial
+APT00519,P0072,2023-12-12,Sleep Specialist,Lifestyle Issues,Medication,No,226,Full
+APT00064,P0013,2023-12-13,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,136,Partial
+APT00592,P0250,2023-12-14,Cardiologist,Stress-Related Insomnia,Lifestyle Changes,Yes,321,Partial
+APT00134,P0235,2023-12-15,General Practitioner,Stress Management,Lifestyle Changes,Yes,144,Full
+APT00618,P0144,2023-12-18,General Practitioner,Stress-Related Insomnia,Medication,Yes,162,Partial
+APT00720,P0321,2023-12-18,Psychologist,Sleep Apnea,Lifestyle Changes,Yes,229,None
+APT00288,P0305,2023-12-18,Nutritionist,Preventive Care,Exercise Program,No,196,Partial
+APT00323,P0134,2023-12-18,Nutritionist,Chronic Insomnia,Medication,Yes,136,Full
+APT00415,P0071,2023-12-19,Cardiologist,Preventive Care,Lifestyle Changes,No,276,Partial
+APT00736,P0020,2023-12-20,General Practitioner,Chronic Insomnia,Medication,Yes,169,None
+APT00264,P0023,2023-12-22,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,100,Partial
+APT00101,P0228,2023-12-24,Cardiologist,Chronic Insomnia,Lifestyle Changes,Yes,283,Partial
+APT00322,P0013,2023-12-25,General Practitioner,Sleep Apnea,CPAP Machine,Yes,92,None
+APT00329,P0257,2023-12-25,Sleep Specialist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,225,Partial
+APT00317,P0257,2023-12-26,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,97,Full
+APT00189,P0005,2023-12-26,General Practitioner,Preventive Care,Lifestyle Changes,No,146,None
+APT00235,P0113,2023-12-27,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,113,Full
+APT00300,P0001,2023-12-27,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,149,Partial
+APT00320,P0264,2023-12-29,Psychologist,Chronic Insomnia,Lifestyle Changes,Yes,190,Full
+APT00269,P0125,2023-12-29,General Practitioner,Preventive Care,Lifestyle Changes,Yes,137,Full
+APT00673,P0026,2023-12-30,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,235,Full
+APT00223,P0276,2024-01-01,Cardiologist,Stress Management,Exercise Program,No,288,Partial
+APT00666,P0084,2024-01-01,General Practitioner,Preventive Care,None,No,140,Partial
+APT00142,P0239,2024-01-01,General Practitioner,Sleep Apnea,CPAP Machine,Yes,91,Full
+APT00107,P0049,2024-01-03,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,272,Partial
+APT00335,P0323,2024-01-05,Cardiologist,Lifestyle Issues,Sleep Hygiene Education,Yes,346,None
+APT00237,P0297,2024-01-05,Cardiologist,Stress Management,Lifestyle Changes,No,310,Partial
+APT00379,P0072,2024-01-06,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,305,Full
+APT00740,P0323,2024-01-06,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,136,Full
+APT00793,P0255,2024-01-06,Sleep Specialist,Preventive Care,Lifestyle Changes,No,259,Partial
+APT00195,P0333,2024-01-06,Cardiologist,Preventive Care,Lifestyle Changes,Yes,291,None
+APT00333,P0325,2024-01-06,General Practitioner,No Issues Found,Lifestyle Changes,Yes,106,Full
+APT00530,P0154,2024-01-07,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,161,Full
+APT00063,P0037,2024-01-07,Psychologist,Preventive Care,None,Yes,181,Partial
+APT00490,P0196,2024-01-07,Cardiologist,Lifestyle Counseling,Stress Reduction Techniques,No,282,Full
+APT00240,P0207,2024-01-08,Nutritionist,Chronic Insomnia,Medication,Yes,195,Partial
+APT00232,P0292,2024-01-08,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,274,Partial
+APT00085,P0188,2024-01-09,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,129,None
+APT00366,P0004,2024-01-10,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,90,Full
+APT00596,P0006,2024-01-10,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,284,Partial
+APT00372,P0043,2024-01-11,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,115,Full
+APT00434,P0169,2024-01-13,Cardiologist,Stress Management,Lifestyle Changes,No,295,None
+APT00284,P0296,2024-01-13,General Practitioner,Lifestyle Issues,Medication,No,124,Partial
+APT00775,P0023,2024-01-13,Nutritionist,Sleep Apnea,CPAP Machine,Yes,134,Partial
+APT00649,P0337,2024-01-15,General Practitioner,Sleep Apnea,CPAP Machine,Yes,150,Full
+APT00192,P0054,2024-01-16,Nutritionist,Preventive Care,Stress Reduction Techniques,No,181,None
+APT00054,P0125,2024-01-16,Cardiologist,Stress Management,None,No,288,Full
+APT00068,P0010,2024-01-17,Sleep Specialist,Lifestyle Issues,Medication,Yes,245,Full
+APT00657,P0323,2024-01-18,Cardiologist,Lifestyle Issues,Cognitive Behavioral Therapy,No,325,Partial
+APT00331,P0054,2024-01-18,Nutritionist,Stress Management,Exercise Program,Yes,145,Full
+APT00346,P0133,2024-01-19,Sleep Specialist,Stress Management,Stress Reduction Techniques,Yes,228,Full
+APT00732,P0174,2024-01-19,Cardiologist,Preventive Care,Lifestyle Changes,No,303,None
+APT00714,P0023,2024-01-21,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,281,Full
+APT00577,P0271,2024-01-22,Cardiologist,Stress-Related Insomnia,Medication,Yes,349,Full
+APT00193,P0030,2024-01-23,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,273,Full
+APT00848,P0164,2024-01-23,General Practitioner,Preventive Care,None,No,134,Partial
+APT00821,P0081,2024-01-24,Sleep Specialist,Stress Management,Lifestyle Changes,No,236,Partial
+APT00011,P0213,2024-01-25,Nutritionist,Stress Management,Lifestyle Changes,No,128,Full
+APT00133,P0009,2024-01-29,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,344,None
+APT00416,P0178,2024-01-30,Sleep Specialist,Lifestyle Issues,Lifestyle Changes,Yes,245,Partial
+APT00042,P0275,2024-01-30,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,328,Partial
+APT00292,P0020,2024-01-31,Cardiologist,Chronic Insomnia,Medication,Yes,287,None
+APT00016,P0031,2024-01-31,General Practitioner,Sleep Apnea,CPAP Machine,Yes,106,Partial
+APT00584,P0144,2024-01-31,Sleep Specialist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,287,Partial
+APT00256,P0149,2024-02-01,Sleep Specialist,Preventive Care,Exercise Program,No,282,Partial
+APT00044,P0153,2024-02-04,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,101,Partial
+APT00257,P0226,2024-02-04,Sleep Specialist,Lifestyle Counseling,None,Yes,237,Partial
+APT00268,P0289,2024-02-05,Nutritionist,Chronic Insomnia,Lifestyle Changes,Yes,144,Full
+APT00287,P0127,2024-02-05,Cardiologist,Stress Management,Exercise Program,Yes,325,Partial
+APT00371,P0008,2024-02-07,Sleep Specialist,Chronic Insomnia,Medication,Yes,248,Partial
+APT00070,P0009,2024-02-08,General Practitioner,Sleep Apnea,CPAP Machine,Yes,120,Full
+APT00780,P0344,2024-02-09,General Practitioner,Sleep Apnea,CPAP Machine,Yes,92,Partial
+APT00008,P0002,2024-02-09,General Practitioner,Preventive Care,Stress Reduction Techniques,No,122,Partial
+APT00041,P0206,2024-02-09,Nutritionist,Preventive Care,Lifestyle Changes,No,127,Full
+APT00454,P0246,2024-02-10,General Practitioner,No Issues Found,Lifestyle Changes,Yes,102,None
+APT00396,P0007,2024-02-11,Nutritionist,Lifestyle Counseling,Stress Reduction Techniques,No,199,Partial
+APT00800,P0101,2024-02-13,General Practitioner,Preventive Care,Lifestyle Changes,No,147,Partial
+APT00168,P0026,2024-02-13,General Practitioner,Sleep Apnea,CPAP Machine,Yes,122,Full
+APT00611,P0012,2024-02-14,Nutritionist,Stress Management,Stress Reduction Techniques,Yes,162,None
+APT00400,P0103,2024-02-14,General Practitioner,Lifestyle Counseling,Exercise Program,No,143,None
+APT00473,P0237,2024-02-15,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,157,None
+APT00766,P0308,2024-02-15,Nutritionist,Lifestyle Issues,Medication,No,181,Partial
+APT00506,P0216,2024-02-16,General Practitioner,No Issues Found,Stress Reduction Techniques,No,135,Partial
+APT00272,P0275,2024-02-16,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,127,Full
+APT00135,P0301,2024-02-17,General Practitioner,No Issues Found,Exercise Program,No,140,Partial
+APT00002,P0292,2024-02-19,Nutritionist,Sleep Apnea,CPAP Machine,Yes,191,Full
+APT00158,P0273,2024-02-19,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,114,Full
+APT00433,P0170,2024-02-19,General Practitioner,Lifestyle Issues,Lifestyle Changes,No,118,Full
+APT00185,P0244,2024-02-19,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,169,Full
+APT00763,P0208,2024-02-22,General Practitioner,Preventive Care,Stress Reduction Techniques,No,142,Partial
+APT00753,P0280,2024-02-22,Psychologist,Chronic Insomnia,Lifestyle Changes,Yes,214,Partial
+APT00152,P0048,2024-02-22,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,145,Full
+APT00500,P0019,2024-02-23,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,No,222,Full
+APT00399,P0295,2024-02-23,Cardiologist,No Issues Found,Lifestyle Changes,Yes,279,None
+APT00514,P0223,2024-02-23,General Practitioner,Chronic Insomnia,Medication,Yes,110,Partial
+APT00339,P0117,2024-02-27,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,Yes,107,None
+APT00785,P0236,2024-02-28,Cardiologist,Stress Management,Exercise Program,No,287,Full
+APT00220,P0224,2024-02-28,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,232,Full
+APT00621,P0055,2024-02-29,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,143,Partial
+APT00052,P0365,2024-03-03,Cardiologist,Chronic Insomnia,Medication,Yes,342,Partial
+APT00536,P0342,2024-03-03,Cardiologist,Preventive Care,Lifestyle Changes,Yes,281,Partial
+APT00197,P0336,2024-03-04,Nutritionist,No Issues Found,Lifestyle Changes,Yes,148,Full
+APT00750,P0014,2024-03-05,Nutritionist,Stress Management,Exercise Program,No,126,Partial
+APT00705,P0176,2024-03-06,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,286,Full
+APT00547,P0048,2024-03-06,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,187,Full
+APT00444,P0014,2024-03-06,Sleep Specialist,Lifestyle Counseling,None,No,260,Partial
+APT00198,P0207,2024-03-07,Cardiologist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,317,Full
+APT00423,P0093,2024-03-09,Psychologist,Stress Management,Lifestyle Changes,No,192,None
+APT00360,P0333,2024-03-10,General Practitioner,Stress Management,Lifestyle Changes,No,169,Full
+APT00248,P0365,2024-03-11,Nutritionist,Chronic Insomnia,Medication,Yes,179,Full
+APT00377,P0338,2024-03-11,Cardiologist,Lifestyle Counseling,None,No,289,Partial
+APT00623,P0121,2024-03-12,General Practitioner,Stress Management,Exercise Program,No,107,Full
+APT00397,P0307,2024-03-13,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,293,Partial
+APT00717,P0085,2024-03-14,General Practitioner,Sleep Apnea,CPAP Machine,Yes,166,Full
+APT00130,P0224,2024-03-17,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,157,Partial
+APT00658,P0294,2024-03-17,Sleep Specialist,Stress Management,Exercise Program,No,278,None
+APT00007,P0213,2024-03-18,Cardiologist,Preventive Care,None,Yes,272,Full
+APT00119,P0119,2024-03-18,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,150,Partial
+APT00278,P0237,2024-03-19,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,153,Full
+APT00117,P0175,2024-03-22,General Practitioner,Chronic Insomnia,Medication,Yes,159,Partial
+APT00590,P0209,2024-03-26,General Practitioner,Chronic Insomnia,Medication,Yes,164,None
+APT00442,P0262,2024-03-27,Psychologist,Lifestyle Issues,Sleep Hygiene Education,No,198,Full
+APT00607,P0077,2024-03-27,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,319,Partial
+APT00436,P0369,2024-03-28,Psychologist,Sleep Apnea,CPAP Machine,Yes,186,Full
+APT00659,P0098,2024-03-30,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,282,Full
+APT00663,P0120,2024-04-01,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,223,Partial
+APT00136,P0315,2024-04-01,Sleep Specialist,Preventive Care,Lifestyle Changes,No,279,Full
+APT00748,P0051,2024-04-01,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,143,Partial
+APT00175,P0337,2024-04-01,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,169,Full
+APT00806,P0202,2024-04-01,Cardiologist,Preventive Care,Lifestyle Changes,No,308,None
+APT00313,P0041,2024-04-03,Sleep Specialist,Preventive Care,Exercise Program,No,237,Full
+APT00459,P0363,2024-04-03,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,97,Full
+APT00402,P0205,2024-04-04,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,138,Full
+APT00038,P0076,2024-04-04,Cardiologist,Sleep Apnea,CPAP Machine,Yes,319,Partial
+APT00383,P0189,2024-04-06,Sleep Specialist,No Issues Found,None,No,259,Full
+APT00161,P0228,2024-04-06,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,311,Full
+APT00328,P0199,2024-04-06,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,93,Partial
+APT00636,P0002,2024-04-07,Nutritionist,Stress Management,Lifestyle Changes,Yes,121,None
+APT00033,P0273,2024-04-08,Sleep Specialist,Preventive Care,Exercise Program,Yes,280,Partial
+APT00138,P0291,2024-04-08,General Practitioner,Stress Management,None,Yes,157,Full
+APT00471,P0292,2024-04-08,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,169,Partial
+APT00426,P0292,2024-04-10,General Practitioner,Sleep Apnea,CPAP Machine,Yes,113,Full
+APT00177,P0048,2024-04-10,Nutritionist,Sleep Apnea,CPAP Machine,Yes,167,Partial
+APT00076,P0286,2024-04-11,Sleep Specialist,Lifestyle Counseling,Exercise Program,No,286,Full
+APT00461,P0361,2024-04-11,Psychologist,Stress Management,Lifestyle Changes,Yes,190,Partial
+APT00091,P0033,2024-04-12,General Practitioner,Stress Management,Stress Reduction Techniques,No,125,None
+APT00764,P0193,2024-04-12,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,148,Partial
+APT00301,P0231,2024-04-13,General Practitioner,Sleep Apnea,CPAP Machine,Yes,129,None
+APT00703,P0350,2024-04-14,General Practitioner,Lifestyle Counseling,Exercise Program,No,122,Partial
+APT00202,P0371,2024-04-14,General Practitioner,Preventive Care,None,No,160,None
+APT00294,P0038,2024-04-15,Sleep Specialist,No Issues Found,Lifestyle Changes,Yes,264,Partial
+APT00760,P0179,2024-04-16,Cardiologist,Sleep Apnea,CPAP Machine,Yes,290,None
+APT00575,P0310,2024-04-18,Sleep Specialist,Chronic Insomnia,Medication,Yes,255,Full
+APT00088,P0160,2024-04-20,General Practitioner,Sleep Apnea,CPAP Machine,Yes,163,Full
+APT00553,P0047,2024-04-23,Cardiologist,Stress Management,Exercise Program,No,335,Partial
+APT00614,P0348,2024-04-25,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,187,Partial
+APT00808,P0119,2024-04-25,General Practitioner,Sleep Apnea,CPAP Machine,Yes,109,Partial
+APT00462,P0043,2024-04-26,Sleep Specialist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,249,None
+APT00502,P0288,2024-04-27,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,239,None
+APT00166,P0091,2024-04-27,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,255,Partial
+APT00465,P0015,2024-04-28,General Practitioner,Stress-Related Insomnia,Medication,Yes,100,Partial
+APT00719,P0237,2024-05-01,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,121,Full
+APT00834,P0316,2024-05-01,General Practitioner,Chronic Insomnia,Medication,Yes,102,Partial
+APT00280,P0257,2024-05-02,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,167,Partial
+APT00332,P0063,2024-05-05,Sleep Specialist,Preventive Care,Exercise Program,No,230,Full
+APT00255,P0098,2024-05-09,Nutritionist,Sleep Apnea,CPAP Machine,Yes,180,Full
+APT00275,P0311,2024-05-09,Psychologist,No Issues Found,Stress Reduction Techniques,No,150,Partial
+APT00517,P0088,2024-05-09,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,246,Partial
+APT00314,P0323,2024-05-09,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,287,None
+APT00847,P0051,2024-05-10,General Practitioner,Sleep Apnea,CPAP Machine,Yes,130,Full
+APT00274,P0365,2024-05-11,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,136,Full
+APT00548,P0217,2024-05-11,Sleep Specialist,Stress Management,Lifestyle Changes,No,271,Full
+APT00061,P0051,2024-05-11,Cardiologist,Sleep Apnea,CPAP Machine,Yes,346,Full
+APT00486,P0303,2024-05-12,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,116,Partial
+APT00601,P0117,2024-05-14,Sleep Specialist,Preventive Care,Exercise Program,No,287,Partial
+APT00527,P0264,2024-05-16,Cardiologist,Chronic Insomnia,Lifestyle Changes,Yes,316,Full
+APT00174,P0259,2024-05-18,Psychologist,Sleep Apnea,CPAP Machine,Yes,219,Partial
+APT00023,P0029,2024-05-18,Nutritionist,Stress Management,Lifestyle Changes,Yes,142,Full
+APT00589,P0122,2024-05-18,General Practitioner,No Issues Found,Exercise Program,Yes,115,Full
+APT00774,P0087,2024-05-18,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,143,Partial
+APT00478,P0360,2024-05-19,Cardiologist,Lifestyle Counseling,Lifestyle Changes,No,295,Full
+APT00745,P0333,2024-05-19,Psychologist,Preventive Care,None,No,191,Full
+APT00210,P0151,2024-05-20,General Practitioner,Preventive Care,Lifestyle Changes,No,161,Partial
+APT00408,P0088,2024-05-23,General Practitioner,Sleep Apnea,CPAP Machine,Yes,163,Partial
+APT00354,P0228,2024-05-24,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,296,Full
+APT00674,P0259,2024-05-26,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,278,Partial
+APT00079,P0369,2024-05-29,Cardiologist,Sleep Apnea,CPAP Machine,Yes,284,Partial
+APT00450,P0018,2024-05-30,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,227,Full
+APT00562,P0302,2024-05-30,General Practitioner,No Issues Found,Lifestyle Changes,Yes,115,Partial
+APT00406,P0052,2024-05-30,Psychologist,Sleep Apnea,CPAP Machine,Yes,179,Partial
+APT00724,P0373,2024-05-31,General Practitioner,Sleep Apnea,CPAP Machine,Yes,122,Full
+APT00207,P0026,2024-05-31,Psychologist,Sleep Apnea,Lifestyle Changes,Yes,159,None
+APT00108,P0055,2024-05-31,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,166,Full
+APT00836,P0270,2024-06-01,Nutritionist,Sleep Apnea,CPAP Machine,Yes,193,Full
+APT00111,P0287,2024-06-01,Sleep Specialist,Preventive Care,Stress Reduction Techniques,Yes,265,Full
+APT00374,P0070,2024-06-02,Nutritionist,No Issues Found,Stress Reduction Techniques,Yes,190,Full
+APT00572,P0224,2024-06-02,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,236,Full
+APT00298,P0169,2024-06-02,General Practitioner,Preventive Care,None,No,96,Partial
+APT00246,P0245,2024-06-03,Sleep Specialist,Chronic Insomnia,Medication,Yes,246,Full
+APT00665,P0253,2024-06-03,Nutritionist,Sleep Apnea,CPAP Machine,Yes,151,Partial
+APT00039,P0110,2024-06-04,General Practitioner,Chronic Insomnia,Medication,Yes,132,None
+APT00316,P0060,2024-06-06,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,226,Full
+APT00017,P0153,2024-06-07,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,175,None
+APT00755,P0316,2024-06-07,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,278,None
+APT00098,P0245,2024-06-08,General Practitioner,Stress-Related Insomnia,Medication,Yes,122,None
+APT00129,P0068,2024-06-08,Nutritionist,Chronic Insomnia,Medication,Yes,159,Full
+APT00693,P0307,2024-06-08,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,220,Full
+APT00613,P0259,2024-06-08,Cardiologist,Sleep Apnea,CPAP Machine,Yes,291,Full
+APT00691,P0028,2024-06-09,General Practitioner,Lifestyle Counseling,Exercise Program,No,146,Full
+APT00028,P0101,2024-06-09,General Practitioner,Preventive Care,Exercise Program,No,99,Partial
+APT00230,P0373,2024-06-09,General Practitioner,Sleep Apnea,CPAP Machine,Yes,159,Full
+APT00477,P0260,2024-06-11,Psychologist,Sleep Apnea,Lifestyle Changes,Yes,166,Partial
+APT00483,P0231,2024-06-12,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,239,Partial
+APT00006,P0134,2024-06-12,Psychologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,190,Full
+APT00738,P0177,2024-06-13,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,248,Full
+APT00588,P0096,2024-06-14,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,225,Full
+APT00222,P0134,2024-06-14,Cardiologist,Chronic Insomnia,Medication,Yes,270,Full
+APT00482,P0277,2024-06-17,Sleep Specialist,Preventive Care,None,Yes,267,Partial
+APT00066,P0202,2024-06-17,Nutritionist,Preventive Care,Lifestyle Changes,No,162,Partial
+APT00236,P0185,2024-06-18,Sleep Specialist,Preventive Care,Lifestyle Changes,No,288,None
+APT00102,P0192,2024-06-18,General Practitioner,Preventive Care,Exercise Program,Yes,157,Partial
+APT00228,P0299,2024-06-19,Cardiologist,Lifestyle Issues,Lifestyle Changes,No,321,Partial
+APT00660,P0342,2024-06-20,Cardiologist,Stress Management,Exercise Program,No,328,Partial
+APT00069,P0372,2024-06-22,General Practitioner,Preventive Care,Stress Reduction Techniques,Yes,99,Full
+APT00018,P0060,2024-06-22,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,315,Partial
+APT00585,P0321,2024-06-24,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,111,Partial
+APT00337,P0232,2024-06-24,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,105,Partial
+APT00652,P0026,2024-06-24,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,95,Partial
+APT00293,P0188,2024-06-26,Nutritionist,Sleep Apnea,CPAP Machine,Yes,126,Partial
+APT00460,P0207,2024-06-26,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,298,Partial
+APT00242,P0103,2024-06-27,General Practitioner,No Issues Found,Exercise Program,No,120,Partial
+APT00749,P0100,2024-06-28,General Practitioner,Preventive Care,Stress Reduction Techniques,Yes,123,None
+APT00357,P0157,2024-06-28,Psychologist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,229,Full
+APT00646,P0243,2024-06-28,Nutritionist,Stress Management,Lifestyle Changes,Yes,146,None
+APT00188,P0331,2024-06-29,Sleep Specialist,Preventive Care,Stress Reduction Techniques,Yes,274,Full
+APT00190,P0119,2024-06-30,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,102,Full
+APT00849,P0179,2024-07-01,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,98,Partial
+APT00252,P0110,2024-07-02,Nutritionist,Lifestyle Issues,Cognitive Behavioral Therapy,No,178,Full
+APT00779,P0281,2024-07-02,Psychologist,Stress Management,None,No,186,Full
+APT00824,P0366,2024-07-03,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,134,None
+APT00606,P0008,2024-07-03,Psychologist,Lifestyle Issues,Cognitive Behavioral Therapy,No,215,Partial
+APT00090,P0048,2024-07-04,Nutritionist,Sleep Apnea,Surgery Consultation,Yes,122,Full
+APT00593,P0302,2024-07-04,Nutritionist,Preventive Care,None,Yes,193,Full
+APT00380,P0165,2024-07-04,Psychologist,Preventive Care,Lifestyle Changes,Yes,216,None
+APT00005,P0264,2024-07-04,Nutritionist,Lifestyle Issues,Medication,No,131,Full
+APT00820,P0020,2024-07-05,Nutritionist,Stress-Related Insomnia,Medication,Yes,175,Partial
+APT00341,P0189,2024-07-06,General Practitioner,Stress Management,Stress Reduction Techniques,Yes,116,Full
+APT00120,P0250,2024-07-06,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,346,Full
+APT00221,P0262,2024-07-07,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,240,Full
+APT00640,P0308,2024-07-07,Nutritionist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,171,Full
+APT00744,P0307,2024-07-07,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,110,Full
+APT00273,P0346,2024-07-08,Nutritionist,Stress Management,Stress Reduction Techniques,No,182,None
+APT00469,P0042,2024-07-08,General Practitioner,No Issues Found,Lifestyle Changes,No,155,Full
+APT00452,P0287,2024-07-09,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,Yes,153,Full
+APT00283,P0207,2024-07-09,Psychologist,Chronic Insomnia,Medication,Yes,162,Partial
+APT00620,P0329,2024-07-09,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,235,Full
+APT00414,P0098,2024-07-11,General Practitioner,Sleep Apnea,CPAP Machine,Yes,108,None
+APT00148,P0008,2024-07-11,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,291,Partial
+APT00731,P0061,2024-07-12,Cardiologist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,332,Full
+APT00518,P0248,2024-07-14,Sleep Specialist,Stress Management,Exercise Program,No,231,Full
+APT00758,P0139,2024-07-16,Sleep Specialist,Preventive Care,None,Yes,271,Full
+APT00838,P0119,2024-07-18,Cardiologist,Sleep Apnea,CPAP Machine,Yes,319,Partial
+APT00639,P0303,2024-07-19,General Practitioner,Stress-Related Insomnia,Medication,Yes,158,Partial
+APT00721,P0049,2024-07-20,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,230,Partial
+APT00353,P0147,2024-07-21,Nutritionist,Preventive Care,Stress Reduction Techniques,No,174,Full
+APT00501,P0239,2024-07-21,Psychologist,Sleep Apnea,Lifestyle Changes,Yes,181,Partial
+APT00425,P0344,2024-07-22,Nutritionist,Sleep Apnea,CPAP Machine,Yes,190,Full
+APT00123,P0245,2024-07-23,Psychologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,168,Full
+APT00164,P0232,2024-07-23,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,165,Full
+APT00398,P0308,2024-07-24,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,112,Partial
+APT00411,P0319,2024-07-24,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,248,Partial
+APT00048,P0222,2024-07-24,Cardiologist,No Issues Found,Lifestyle Changes,Yes,276,Partial
+APT00203,P0082,2024-07-25,General Practitioner,No Issues Found,Stress Reduction Techniques,No,135,Full
+APT00118,P0353,2024-07-25,Cardiologist,Stress Management,Exercise Program,Yes,335,Full
+APT00358,P0374,2024-07-25,Nutritionist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,144,None
+APT00305,P0170,2024-07-25,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,296,Partial
+APT00504,P0003,2024-07-25,Nutritionist,Chronic Insomnia,Medication,Yes,148,None
+APT00376,P0283,2024-07-25,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,121,Partial
+APT00081,P0162,2024-07-27,Sleep Specialist,Stress-Related Insomnia,Lifestyle Changes,Yes,249,Partial
+APT00470,P0122,2024-07-27,Sleep Specialist,Preventive Care,None,No,222,Full
+APT00155,P0055,2024-07-27,General Practitioner,Chronic Insomnia,Medication,Yes,139,Partial
+APT00818,P0068,2024-07-28,Nutritionist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,167,None
+APT00106,P0362,2024-07-28,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,228,Full
+APT00094,P0091,2024-07-30,General Practitioner,Preventive Care,Stress Reduction Techniques,No,130,Partial
+APT00811,P0006,2024-07-30,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,323,Partial
+APT00653,P0226,2024-08-01,General Practitioner,Preventive Care,Exercise Program,No,151,Full
+APT00403,P0138,2024-08-01,Sleep Specialist,Preventive Care,Exercise Program,No,236,Full
+APT00694,P0257,2024-08-02,Cardiologist,Lifestyle Issues,Medication,No,277,Partial
+APT00647,P0008,2024-08-04,General Practitioner,Lifestyle Issues,Medication,No,99,Full
+APT00004,P0089,2024-08-04,Sleep Specialist,Lifestyle Counseling,Exercise Program,No,224,Full
+APT00843,P0044,2024-08-05,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,129,Partial
+APT00642,P0119,2024-08-06,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,278,None
+APT00419,P0207,2024-08-06,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,222,Full
+APT00031,P0323,2024-08-07,Cardiologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,310,None
+APT00037,P0078,2024-08-07,General Practitioner,Sleep Apnea,CPAP Machine,Yes,91,Partial
+APT00729,P0199,2024-08-07,General Practitioner,Lifestyle Issues,Cognitive Behavioral Therapy,No,153,Full
+APT00072,P0190,2024-08-07,General Practitioner,Preventive Care,Lifestyle Changes,Yes,94,Partial
+APT00489,P0137,2024-08-08,Sleep Specialist,Stress Management,None,No,223,None
+APT00243,P0110,2024-08-08,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,149,Full
+APT00281,P0113,2024-08-08,Cardiologist,Lifestyle Counseling,Lifestyle Changes,Yes,331,None
+APT00822,P0134,2024-08-08,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,98,None
+APT00491,P0021,2024-08-08,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,124,Full
+APT00840,P0285,2024-08-09,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,338,Full
+APT00404,P0236,2024-08-11,Sleep Specialist,Stress Management,Stress Reduction Techniques,Yes,275,Partial
+APT00578,P0289,2024-08-13,Nutritionist,Chronic Insomnia,Medication,Yes,155,Full
+APT00382,P0096,2024-08-14,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,246,Partial
+APT00651,P0303,2024-08-15,General Practitioner,Chronic Insomnia,Medication,Yes,99,Full
+APT00307,P0274,2024-08-15,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,275,Partial
+APT00561,P0237,2024-08-16,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,252,None
+APT00067,P0026,2024-08-19,Cardiologist,Sleep Apnea,CPAP Machine,Yes,305,Partial
+APT00056,P0045,2024-08-23,Cardiologist,Lifestyle Counseling,Exercise Program,No,335,Partial
+APT00159,P0293,2024-08-23,Psychologist,Preventive Care,None,No,210,None
+APT00545,P0117,2024-08-25,Sleep Specialist,Stress Management,Lifestyle Changes,No,258,None
+APT00315,P0110,2024-08-26,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,162,None
+APT00685,P0236,2024-08-28,Sleep Specialist,Lifestyle Counseling,Exercise Program,Yes,287,Full
+APT00170,P0119,2024-08-28,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,150,Full
+APT00394,P0005,2024-08-29,Cardiologist,No Issues Found,Lifestyle Changes,Yes,339,Partial
+APT00363,P0232,2024-08-30,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,100,Partial
+APT00537,P0020,2024-08-30,Cardiologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,332,None
+APT00782,P0084,2024-08-31,Psychologist,Stress Management,Lifestyle Changes,No,184,Partial
+APT00556,P0100,2024-08-31,Nutritionist,Preventive Care,None,No,168,Full
+APT00387,P0175,2024-09-01,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,225,Full
+APT00560,P0116,2024-09-03,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,No,253,None
+APT00481,P0238,2024-09-04,Sleep Specialist,Preventive Care,Lifestyle Changes,Yes,271,Full
+APT00187,P0110,2024-09-06,General Practitioner,Lifestyle Issues,Lifestyle Changes,Yes,111,Full
+APT00446,P0029,2024-09-07,Cardiologist,No Issues Found,Stress Reduction Techniques,No,348,Full
+APT00539,P0068,2024-09-08,Nutritionist,Lifestyle Issues,Sleep Hygiene Education,No,120,Partial
+APT00587,P0109,2024-09-09,Cardiologist,Stress Management,Stress Reduction Techniques,No,349,Full
+APT00765,P0103,2024-09-10,Nutritionist,Preventive Care,Lifestyle Changes,No,188,Full
+APT00212,P0021,2024-09-11,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,263,Partial
+APT00769,P0324,2024-09-11,Sleep Specialist,Lifestyle Issues,Medication,No,275,None
+APT00510,P0131,2024-09-13,Cardiologist,No Issues Found,None,No,340,Full
+APT00356,P0176,2024-09-13,General Practitioner,Sleep Apnea,CPAP Machine,Yes,154,Full
+APT00534,P0165,2024-09-13,Sleep Specialist,Lifestyle Counseling,Stress Reduction Techniques,No,251,Full
+APT00321,P0078,2024-09-13,Cardiologist,Sleep Apnea,CPAP Machine,Yes,309,Partial
+APT00110,P0353,2024-09-14,General Practitioner,Stress Management,Exercise Program,No,149,None
+APT00352,P0119,2024-09-15,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,140,Partial
+APT00365,P0324,2024-09-15,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,104,Partial
+APT00104,P0105,2024-09-15,Sleep Specialist,Lifestyle Counseling,None,No,273,Full
+APT00629,P0273,2024-09-16,Psychologist,Preventive Care,Lifestyle Changes,Yes,212,Full
+APT00655,P0205,2024-09-19,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,339,Partial
+APT00567,P0060,2024-09-21,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,298,Partial
+APT00819,P0160,2024-09-22,Cardiologist,Sleep Apnea,CPAP Machine,Yes,343,None
+APT00182,P0188,2024-09-23,General Practitioner,Sleep Apnea,CPAP Machine,Yes,146,None
+APT00100,P0296,2024-09-24,Nutritionist,Chronic Insomnia,Lifestyle Changes,Yes,197,None
+APT00833,P0256,2024-09-24,Psychologist,Stress Management,Stress Reduction Techniques,No,191,Partial
+APT00542,P0339,2024-09-26,Nutritionist,Stress Management,Stress Reduction Techniques,No,127,None
+APT00726,P0080,2024-09-26,Cardiologist,Sleep Apnea,CPAP Machine,Yes,306,Full
+APT00723,P0221,2024-09-27,General Practitioner,No Issues Found,Stress Reduction Techniques,Yes,124,Partial
+APT00488,P0274,2024-09-28,General Practitioner,Sleep Apnea,CPAP Machine,Yes,167,Partial
+APT00669,P0020,2024-09-30,Nutritionist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,153,Full
+APT00532,P0193,2024-09-30,Psychologist,Sleep Apnea,CPAP Machine,Yes,174,Partial
+APT00239,P0082,2024-09-30,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,136,Partial
+APT00498,P0233,2024-10-01,General Practitioner,Lifestyle Counseling,Exercise Program,Yes,163,Partial
+APT00466,P0232,2024-10-02,Nutritionist,Stress-Related Insomnia,Medication,Yes,121,Full
+APT00422,P0074,2024-10-03,General Practitioner,Stress Management,Stress Reduction Techniques,No,160,Full
+APT00583,P0228,2024-10-05,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,169,None
+APT00654,P0180,2024-10-05,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,224,Full
+APT00699,P0178,2024-10-06,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,153,None
+APT00040,P0341,2024-10-06,General Practitioner,Preventive Care,Lifestyle Changes,Yes,166,Partial
+APT00830,P0267,2024-10-06,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,No,100,Partial
+APT00727,P0018,2024-10-07,General Practitioner,Sleep Apnea,CPAP Machine,Yes,102,None
+APT00224,P0253,2024-10-08,Nutritionist,Sleep Apnea,Surgery Consultation,Yes,179,Full
+APT00271,P0199,2024-10-09,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,223,Full
+APT00839,P0007,2024-10-10,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,155,Full
+APT00036,P0207,2024-10-10,Nutritionist,Chronic Insomnia,Medication,Yes,171,Partial
+APT00157,P0373,2024-10-10,Nutritionist,Sleep Apnea,CPAP Machine,Yes,185,None
+APT00796,P0011,2024-10-11,Psychologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,157,Full
+APT00407,P0279,2024-10-13,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,263,Full
+APT00046,P0063,2024-10-14,Cardiologist,Stress Management,Stress Reduction Techniques,Yes,346,Full
+APT00509,P0153,2024-10-15,Nutritionist,Stress-Related Insomnia,Lifestyle Changes,Yes,191,Full
+APT00788,P0276,2024-10-17,Sleep Specialist,Preventive Care,Lifestyle Changes,Yes,283,Partial
+APT00378,P0313,2024-10-19,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,270,Full
+APT00737,P0148,2024-10-20,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,156,Partial
+APT00480,P0183,2024-10-20,Sleep Specialist,No Issues Found,Lifestyle Changes,No,275,None
+APT00492,P0068,2024-10-21,Nutritionist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,191,Partial
+APT00684,P0244,2024-10-22,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,334,Partial
+APT00455,P0219,2024-10-24,Nutritionist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,182,Full
+APT00260,P0366,2024-10-24,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,160,None
+APT00078,P0241,2024-10-25,Nutritionist,Preventive Care,Lifestyle Changes,No,154,Full
+APT00837,P0103,2024-10-25,Cardiologist,Stress Management,Stress Reduction Techniques,No,289,Partial
+APT00449,P0062,2024-10-28,Sleep Specialist,Lifestyle Counseling,Stress Reduction Techniques,No,246,Partial
+APT00045,P0047,2024-10-29,General Practitioner,Preventive Care,Lifestyle Changes,No,93,None
+APT00059,P0324,2024-11-01,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,126,None
+APT00802,P0329,2024-11-01,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,267,Partial
+APT00128,P0374,2024-11-01,Cardiologist,Stress-Related Insomnia,Medication,Yes,335,Full
+APT00186,P0105,2024-11-02,Cardiologist,No Issues Found,Stress Reduction Techniques,Yes,301,Partial
+APT00528,P0121,2024-11-03,Psychologist,Preventive Care,Stress Reduction Techniques,No,184,Full
+APT00447,P0104,2024-11-04,Nutritionist,Preventive Care,Exercise Program,No,173,Full
+APT00075,P0130,2024-11-04,General Practitioner,Sleep Apnea,CPAP Machine,Yes,92,Full
+APT00759,P0215,2024-11-08,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,298,None
+APT00381,P0073,2024-11-09,Psychologist,Preventive Care,Stress Reduction Techniques,No,150,Full
+APT00439,P0259,2024-11-09,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,122,Partial
+APT00792,P0289,2024-11-10,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,No,236,Partial
+APT00077,P0191,2024-11-10,General Practitioner,Preventive Care,Stress Reduction Techniques,No,160,Partial
+APT00216,P0178,2024-11-13,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,226,None
+APT00176,P0313,2024-11-13,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,284,Partial
+APT00772,P0266,2024-11-15,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,132,Partial
+APT00053,P0127,2024-11-18,Psychologist,Stress Management,Lifestyle Changes,No,155,Full
+APT00302,P0232,2024-11-19,Nutritionist,Chronic Insomnia,Lifestyle Changes,Yes,156,Full
+APT00722,P0366,2024-11-19,Sleep Specialist,Preventive Care,Exercise Program,No,225,Full
+APT00728,P0092,2024-11-19,Psychologist,No Issues Found,None,No,223,Full
+APT00551,P0269,2024-11-19,General Practitioner,Stress-Related Insomnia,Medication,Yes,110,Full
+APT00093,P0197,2024-11-19,General Practitioner,Stress Management,Lifestyle Changes,No,104,Partial
+APT00829,P0126,2024-11-19,Psychologist,Sleep Apnea,CPAP Machine,Yes,155,Full
+APT00043,P0128,2024-11-20,Cardiologist,Stress Management,Lifestyle Changes,No,334,None
+APT00681,P0370,2024-11-20,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,238,Partial
+APT00071,P0166,2024-11-20,General Practitioner,Stress Management,Stress Reduction Techniques,Yes,118,Full
+APT00144,P0148,2024-11-21,Cardiologist,Sleep Apnea,CPAP Machine,Yes,339,Partial
+APT00474,P0244,2024-11-22,Cardiologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,294,Full
+APT00661,P0032,2024-11-23,Psychologist,Lifestyle Counseling,Stress Reduction Techniques,No,200,Partial
+APT00603,P0051,2024-11-24,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,290,Partial
+APT00143,P0300,2024-11-25,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,No,169,Full
+APT00515,P0352,2024-11-25,Cardiologist,Chronic Insomnia,Medication,Yes,272,Partial
+APT00698,P0114,2024-11-29,General Practitioner,Lifestyle Counseling,Exercise Program,No,144,None
+APT00676,P0353,2024-11-29,General Practitioner,Preventive Care,Exercise Program,No,108,Partial
+APT00304,P0148,2024-11-30,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,144,Full
+APT00686,P0241,2024-11-30,General Practitioner,Preventive Care,Lifestyle Changes,No,117,None
+APT00709,P0112,2024-12-04,Nutritionist,Sleep Apnea,CPAP Machine,Yes,179,Full
+APT00359,P0003,2024-12-06,Nutritionist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,166,Full
+APT00114,P0140,2024-12-06,Sleep Specialist,No Issues Found,Exercise Program,No,256,Full
+APT00773,P0113,2024-12-07,Nutritionist,Preventive Care,Stress Reduction Techniques,No,181,Full
+APT00487,P0098,2024-12-09,General Practitioner,Sleep Apnea,CPAP Machine,Yes,91,Full
+APT00127,P0043,2024-12-09,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,111,Full
+APT00213,P0331,2024-12-09,Sleep Specialist,Preventive Care,Lifestyle Changes,No,279,Full
+APT00605,P0337,2024-12-10,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,276,Partial
+APT00495,P0245,2024-12-10,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,120,Full
+APT00105,P0031,2024-12-11,Nutritionist,Sleep Apnea,Surgery Consultation,Yes,123,Full
+APT00299,P0370,2024-12-11,General Practitioner,Stress Management,Lifestyle Changes,No,104,Full
+APT00270,P0352,2024-12-13,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,151,Full
+APT00543,P0087,2024-12-13,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,287,Full
+APT00338,P0197,2024-12-14,Nutritionist,No Issues Found,Stress Reduction Techniques,No,198,Partial
+APT00702,P0349,2024-12-15,Cardiologist,No Issues Found,Exercise Program,No,281,Full
+APT00557,P0186,2024-12-16,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,235,Partial
+APT00850,P0077,2024-12-17,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,331,Partial
+APT00254,P0197,2024-12-17,General Practitioner,Lifestyle Counseling,Exercise Program,No,128,Partial
+APT00295,P0043,2024-12-17,General Practitioner,Stress-Related Insomnia,Medication,Yes,125,Partial
+APT00457,P0371,2024-12-17,Cardiologist,Preventive Care,Lifestyle Changes,No,330,Full
+APT00668,P0113,2024-12-18,Nutritionist,Preventive Care,Lifestyle Changes,No,193,Full
+APT00541,P0155,2024-12-19,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,No,289,Full
+APT00262,P0050,2024-12-21,General Practitioner,Preventive Care,Lifestyle Changes,No,165,None
+APT00467,P0076,2024-12-22,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,269,Full
+APT00463,P0183,2024-12-23,Sleep Specialist,Lifestyle Counseling,None,No,240,Full
+APT00598,P0076,2024-12-25,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,165,None
+APT00667,P0088,2024-12-25,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,271,Partial
+APT00672,P0167,2024-12-26,Nutritionist,Lifestyle Counseling,Lifestyle Changes,Yes,162,Full
+APT00687,P0113,2024-12-30,Cardiologist,Lifestyle Counseling,Exercise Program,No,287,None
+APT00347,P0113,2024-12-30,Cardiologist,No Issues Found,Stress Reduction Techniques,No,345,Partial
+APT00027,P0105,2024-12-30,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,273,None
+APT00675,P0085,2024-12-31,General Practitioner,Sleep Apnea,CPAP Machine,Yes,142,Full
+APT00549,P0020,2024-12-31,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,93,None
+APT00798,P0117,2024-12-31,Nutritionist,No Issues Found,Exercise Program,No,150,Full
+APT00730,P0063,2025-01-01,Sleep Specialist,Lifestyle Counseling,None,No,220,Partial
+APT00140,P0271,2025-01-02,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,291,Full
+APT00279,P0348,2025-01-02,General Practitioner,Preventive Care,Exercise Program,Yes,106,Full
+APT00013,P0049,2025-01-02,General Practitioner,Chronic Insomnia,Medication,Yes,118,Full
+APT00035,P0262,2025-01-02,General Practitioner,Lifestyle Issues,Cognitive Behavioral Therapy,No,162,None
+APT00418,P0008,2025-01-03,Nutritionist,Chronic Insomnia,Sleep Hygiene Education,Yes,157,Partial
+APT00261,P0205,2025-01-03,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,323,Partial
+APT00206,P0051,2025-01-03,Cardiologist,Sleep Apnea,CPAP Machine,Yes,282,Partial
+APT00308,P0049,2025-01-03,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,263,None
+APT00612,P0192,2025-01-05,General Practitioner,Preventive Care,Lifestyle Changes,Yes,131,Full
+APT00633,P0115,2025-01-06,General Practitioner,Stress-Related Insomnia,Sleep Hygiene Education,Yes,140,Partial
+APT00430,P0169,2025-01-07,Nutritionist,Lifestyle Counseling,Stress Reduction Techniques,No,124,Partial
+APT00125,P0045,2025-01-08,General Practitioner,Preventive Care,None,No,129,Full
+APT00716,P0321,2025-01-08,General Practitioner,Sleep Apnea,CPAP Machine,Yes,161,None
+APT00790,P0305,2025-01-08,Cardiologist,Preventive Care,Stress Reduction Techniques,No,317,Full
+APT00443,P0274,2025-01-10,General Practitioner,Sleep Apnea,CPAP Machine,Yes,162,Partial
+APT00563,P0231,2025-01-10,General Practitioner,Sleep Apnea,CPAP Machine,Yes,155,Full
+APT00259,P0056,2025-01-11,Sleep Specialist,Preventive Care,Exercise Program,No,258,Full
+APT00529,P0280,2025-01-11,Cardiologist,Stress-Related Insomnia,Lifestyle Changes,Yes,334,Full
+APT00801,P0293,2025-01-13,General Practitioner,Stress Management,Stress Reduction Techniques,No,101,Full
+APT00508,P0048,2025-01-14,Psychologist,Sleep Apnea,Surgery Consultation,Yes,210,Full
+APT00160,P0373,2025-01-15,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,155,None
+APT00807,P0320,2025-01-15,General Practitioner,Stress Management,Stress Reduction Techniques,No,165,Full
+APT00695,P0239,2025-01-16,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,270,Full
+APT00521,P0081,2025-01-16,General Practitioner,Stress Management,Exercise Program,No,154,Full
+APT00816,P0051,2025-01-16,General Practitioner,Sleep Apnea,CPAP Machine,Yes,163,None
+APT00511,P0112,2025-01-16,General Practitioner,Sleep Apnea,CPAP Machine,Yes,159,None
+APT00217,P0117,2025-01-18,Nutritionist,Preventive Care,Exercise Program,No,165,Partial
+APT00384,P0021,2025-01-18,General Practitioner,Chronic Insomnia,Medication,Yes,103,Partial
+APT00648,P0295,2025-01-20,General Practitioner,No Issues Found,Exercise Program,No,169,Partial
+APT00569,P0296,2025-01-22,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,234,None
+APT00570,P0144,2025-01-22,Sleep Specialist,Chronic Insomnia,Medication,Yes,261,Full
+APT00427,P0308,2025-01-22,Nutritionist,Stress-Related Insomnia,Lifestyle Changes,Yes,158,Full
+APT00630,P0135,2025-01-23,Cardiologist,Sleep Apnea,CPAP Machine,Yes,299,Full
+APT00285,P0116,2025-01-23,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,No,262,None
+APT00635,P0148,2025-01-26,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,165,Full
+APT00029,P0122,2025-01-29,Psychologist,Stress Management,Lifestyle Changes,No,226,Partial
+APT00277,P0363,2025-01-29,Nutritionist,Lifestyle Issues,Medication,Yes,181,Full
+APT00638,P0345,2025-01-30,Cardiologist,Lifestyle Counseling,Stress Reduction Techniques,Yes,331,Full
+APT00823,P0163,2025-01-31,Psychologist,Stress Management,Exercise Program,No,183,Full
+APT00219,P0320,2025-02-01,General Practitioner,Stress Management,Exercise Program,No,135,Partial
+APT00073,P0043,2025-02-03,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,166,Partial
+APT00162,P0114,2025-02-03,Cardiologist,Lifestyle Counseling,Stress Reduction Techniques,No,334,None
+APT00725,P0341,2025-02-04,General Practitioner,Preventive Care,Exercise Program,No,107,Partial
+APT00306,P0154,2025-02-04,General Practitioner,Chronic Insomnia,Medication,Yes,169,Full
+APT00597,P0275,2025-02-05,Sleep Specialist,Lifestyle Issues,Lifestyle Changes,No,271,Full
+APT00622,P0055,2025-02-06,Psychologist,Lifestyle Issues,Sleep Hygiene Education,No,174,None
+APT00364,P0126,2025-02-07,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,286,Partial
+APT00116,P0006,2025-02-08,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,246,Partial
+APT00368,P0213,2025-02-08,Cardiologist,Preventive Care,None,Yes,270,None
+APT00050,P0299,2025-02-09,Nutritionist,Lifestyle Issues,Cognitive Behavioral Therapy,No,188,Full
+APT00804,P0321,2025-02-09,General Practitioner,Sleep Apnea,CPAP Machine,Yes,152,Full
+APT00479,P0274,2025-02-10,Nutritionist,Sleep Apnea,CPAP Machine,Yes,142,Full
+APT00718,P0263,2025-02-11,General Practitioner,No Issues Found,Lifestyle Changes,No,118,Partial
+APT00282,P0136,2025-02-12,General Practitioner,Stress Management,Lifestyle Changes,No,124,Full
+APT00092,P0228,2025-02-12,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,262,Partial
+APT00624,P0017,2025-02-14,General Practitioner,Stress Management,Lifestyle Changes,No,112,Partial
+APT00617,P0026,2025-02-14,Nutritionist,Sleep Apnea,CPAP Machine,Yes,158,Full
+APT00825,P0302,2025-02-14,Sleep Specialist,No Issues Found,Lifestyle Changes,No,228,Full
+APT00756,P0094,2025-02-15,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,168,Full
+APT00815,P0356,2025-02-15,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,118,Partial
+APT00568,P0068,2025-02-15,Nutritionist,Chronic Insomnia,Lifestyle Changes,Yes,129,Full
+APT00671,P0002,2025-02-16,Psychologist,Preventive Care,Exercise Program,No,219,Full
+APT00263,P0332,2025-02-17,Sleep Specialist,Lifestyle Counseling,Stress Reduction Techniques,No,254,Partial
+APT00704,P0151,2025-02-17,Nutritionist,Preventive Care,Stress Reduction Techniques,No,190,Full
+APT00146,P0223,2025-02-18,Cardiologist,Lifestyle Issues,Medication,No,288,None
+APT00733,P0010,2025-02-20,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,99,Partial
+APT00476,P0119,2025-02-20,Sleep Specialist,Sleep Apnea,Surgery Consultation,Yes,230,Full
+APT00251,P0015,2025-02-23,Cardiologist,Chronic Insomnia,Medication,Yes,300,Partial
+APT00751,P0348,2025-02-23,Cardiologist,Lifestyle Counseling,Exercise Program,No,304,Full
+APT00253,P0349,2025-02-23,Nutritionist,Stress Management,Lifestyle Changes,Yes,121,Full
+APT00574,P0021,2025-02-23,Nutritionist,Chronic Insomnia,Medication,Yes,128,Full
+APT00637,P0197,2025-02-25,Sleep Specialist,Preventive Care,Lifestyle Changes,No,224,Full
+APT00594,P0329,2025-02-25,General Practitioner,Chronic Insomnia,Medication,Yes,149,Full
+APT00200,P0143,2025-02-25,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,No,254,Full
+APT00682,P0225,2025-02-27,General Practitioner,Stress Management,Stress Reduction Techniques,No,151,Partial
+APT00325,P0043,2025-02-27,Sleep Specialist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,298,Full
+APT00297,P0324,2025-03-03,Nutritionist,Lifestyle Issues,Lifestyle Changes,No,161,Partial
+APT00814,P0373,2025-03-06,Cardiologist,Sleep Apnea,CPAP Machine,Yes,340,Partial
+APT00644,P0052,2025-03-07,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,228,None
+APT00194,P0305,2025-03-08,General Practitioner,Lifestyle Counseling,Exercise Program,No,118,None
+APT00296,P0352,2025-03-08,Psychologist,Lifestyle Issues,Medication,No,190,Full
+APT00696,P0150,2025-03-08,General Practitioner,No Issues Found,Stress Reduction Techniques,Yes,114,None
+APT00245,P0289,2025-03-08,Nutritionist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,163,None
+APT00312,P0197,2025-03-09,General Practitioner,Preventive Care,None,No,163,Full
+APT00835,P0343,2025-03-10,General Practitioner,Lifestyle Counseling,Exercise Program,Yes,101,Partial
+APT00692,P0072,2025-03-10,Psychologist,Chronic Insomnia,Sleep Hygiene Education,Yes,155,Partial
+APT00413,P0327,2025-03-11,Nutritionist,Preventive Care,Lifestyle Changes,No,155,None
+APT00183,P0117,2025-03-11,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,Yes,290,Partial
+APT00799,P0210,2025-03-12,Cardiologist,Lifestyle Counseling,Exercise Program,No,328,Partial
+APT00132,P0047,2025-03-16,Nutritionist,No Issues Found,Stress Reduction Techniques,No,174,None
+APT00604,P0001,2025-03-17,Cardiologist,Lifestyle Issues,Medication,No,279,Partial
+APT00832,P0116,2025-03-17,Psychologist,Stress-Related Insomnia,Medication,Yes,210,Full
+APT00113,P0001,2025-03-22,General Practitioner,Lifestyle Issues,Medication,No,163,Full
+APT00165,P0220,2025-03-23,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,98,Full
+APT00326,P0091,2025-03-25,General Practitioner,Preventive Care,Lifestyle Changes,Yes,141,None
+APT00632,P0076,2025-03-27,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,280,Partial
+APT00412,P0356,2025-03-28,Psychologist,Chronic Insomnia,Lifestyle Changes,Yes,151,Full
+APT00019,P0080,2025-03-28,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,156,Full
+APT00375,P0172,2025-03-29,Sleep Specialist,Preventive Care,Stress Reduction Techniques,Yes,231,Full
+APT00794,P0010,2025-03-29,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,276,None
+APT00167,P0284,2025-03-30,Sleep Specialist,Preventive Care,Exercise Program,No,257,Full
+APT00172,P0165,2025-03-30,Cardiologist,Preventive Care,Stress Reduction Techniques,Yes,330,Full
+APT00538,P0262,2025-03-30,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,296,Full
+APT00330,P0224,2025-03-31,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,307,Full
+APT00494,P0330,2025-04-01,General Practitioner,Preventive Care,Lifestyle Changes,No,95,Full
+APT00131,P0154,2025-04-01,Psychologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,197,Full
+APT00513,P0264,2025-04-03,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,152,Partial
+APT00573,P0223,2025-04-03,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,149,None
+APT00241,P0197,2025-04-06,General Practitioner,Lifestyle Counseling,None,No,158,None
+APT00579,P0269,2025-04-07,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,267,Partial
+APT00218,P0183,2025-04-09,Nutritionist,Stress Management,Exercise Program,No,142,None
+APT00846,P0276,2025-04-09,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,269,Full
+APT00616,P0299,2025-04-10,Sleep Specialist,Chronic Insomnia,Medication,Yes,285,None
+APT00523,P0309,2025-04-12,General Practitioner,Stress Management,Exercise Program,No,115,None
+APT00643,P0287,2025-04-13,General Practitioner,No Issues Found,Stress Reduction Techniques,No,157,Full
+APT00809,P0356,2025-04-14,Cardiologist,Lifestyle Issues,Lifestyle Changes,Yes,317,None
+APT00351,P0370,2025-04-15,General Practitioner,Stress Management,Lifestyle Changes,No,124,Full
+APT00204,P0145,2025-04-20,Cardiologist,Preventive Care,Exercise Program,No,304,Partial
+APT00147,P0061,2025-04-21,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,247,Full
+APT00390,P0088,2025-04-21,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,238,Partial
+APT00179,P0304,2025-04-23,General Practitioner,No Issues Found,Lifestyle Changes,No,102,Full
+APT00626,P0362,2025-04-23,Nutritionist,Preventive Care,Lifestyle Changes,No,158,Full
+APT00327,P0110,2025-04-23,Nutritionist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,141,Full
+APT00789,P0260,2025-04-25,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,115,Full
+APT00196,P0308,2025-04-25,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,154,Partial
+APT00707,P0345,2025-04-26,Sleep Specialist,Preventive Care,Lifestyle Changes,No,229,Partial
+APT00089,P0101,2025-04-26,Sleep Specialist,Preventive Care,Stress Reduction Techniques,No,238,Partial
+APT00154,P0321,2025-04-29,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,121,Full
+APT00276,P0112,2025-04-29,General Practitioner,Sleep Apnea,CPAP Machine,Yes,92,Full
+APT00497,P0257,2025-04-29,Nutritionist,Lifestyle Issues,Cognitive Behavioral Therapy,Yes,140,Full
+APT00051,P0088,2025-04-29,General Practitioner,Sleep Apnea,CPAP Machine,Yes,119,None
+APT00373,P0048,2025-04-30,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,134,Full
+APT00813,P0021,2025-05-01,Cardiologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,344,Full
+APT00688,P0320,2025-05-01,General Practitioner,Stress Management,Stress Reduction Techniques,Yes,115,Partial
+APT00524,P0091,2025-05-01,General Practitioner,Preventive Care,Stress Reduction Techniques,Yes,104,Full
+APT00122,P0090,2025-05-01,Sleep Specialist,Chronic Insomnia,Sleep Hygiene Education,Yes,269,Full
+APT00178,P0047,2025-05-02,General Practitioner,Stress Management,Exercise Program,Yes,161,None
+APT00247,P0311,2025-05-02,Sleep Specialist,Preventive Care,Exercise Program,No,245,Full
+APT00208,P0310,2025-05-02,Cardiologist,Lifestyle Issues,Sleep Hygiene Education,No,335,Full
+APT00735,P0155,2025-05-02,Sleep Specialist,Preventive Care,Exercise Program,Yes,275,Full
+APT00656,P0347,2025-05-03,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,282,None
+APT00290,P0025,2025-05-03,Cardiologist,Sleep Apnea,CPAP Machine,Yes,323,Full
+APT00670,P0066,2025-05-05,Psychologist,Stress Management,Lifestyle Changes,No,185,Partial
+APT00319,P0233,2025-05-05,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,126,None
+APT00385,P0079,2025-05-06,General Practitioner,Lifestyle Counseling,None,No,158,Full
+APT00010,P0202,2025-05-08,Psychologist,Lifestyle Counseling,Lifestyle Changes,No,205,Full
+APT00437,P0297,2025-05-08,General Practitioner,Preventive Care,Exercise Program,No,142,Full
+APT00026,P0237,2025-05-08,Psychologist,Stress-Related Insomnia,Medication,Yes,176,None
+APT00689,P0360,2025-05-09,Sleep Specialist,No Issues Found,Stress Reduction Techniques,Yes,238,Full
+APT00634,P0239,2025-05-11,Sleep Specialist,Sleep Apnea,Surgery Consultation,Yes,228,Partial
+APT00558,P0045,2025-05-11,Nutritionist,Preventive Care,Stress Reduction Techniques,Yes,136,Partial
+APT00201,P0253,2025-05-12,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,293,Full
+APT00286,P0219,2025-05-13,General Practitioner,Chronic Insomnia,Lifestyle Changes,Yes,91,Partial
+APT00428,P0337,2025-05-14,General Practitioner,Sleep Apnea,CPAP Machine,Yes,157,Full
+APT00055,P0115,2025-05-15,Nutritionist,Lifestyle Issues,Medication,No,199,Full
+APT00441,P0019,2025-05-15,Nutritionist,No Issues Found,Stress Reduction Techniques,Yes,126,Full
+APT00149,P0134,2025-05-16,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,103,Partial
+APT00401,P0313,2025-05-16,General Practitioner,Stress-Related Insomnia,Lifestyle Changes,Yes,130,Full
+APT00227,P0092,2025-05-17,Sleep Specialist,Stress Management,Exercise Program,No,222,Partial
+APT00546,P0037,2025-05-17,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,Yes,242,Partial
+APT00393,P0154,2025-05-17,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,280,Partial
+APT00310,P0067,2025-05-19,Sleep Specialist,Stress Management,Stress Reduction Techniques,Yes,225,None
+APT00844,P0063,2025-05-19,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,173,Full
+APT00097,P0072,2025-05-20,General Practitioner,Lifestyle Issues,Sleep Hygiene Education,No,166,None
+APT00619,P0138,2025-05-20,General Practitioner,Stress Management,Exercise Program,No,108,Partial
+APT00627,P0160,2025-05-22,General Practitioner,Sleep Apnea,Surgery Consultation,Yes,157,Full
+APT00456,P0008,2025-05-23,Cardiologist,Lifestyle Issues,Medication,No,304,Full
+APT00121,P0245,2025-05-24,Nutritionist,Chronic Insomnia,Lifestyle Changes,Yes,170,Full
+APT00431,P0121,2025-05-24,General Practitioner,Preventive Care,Stress Reduction Techniques,No,144,Full
+APT00022,P0028,2025-05-24,General Practitioner,Preventive Care,Stress Reduction Techniques,Yes,156,Full
+APT00370,P0231,2025-05-26,Psychologist,Sleep Apnea,CPAP Machine,Yes,222,Full
+APT00711,P0231,2025-05-27,Nutritionist,Sleep Apnea,CPAP Machine,Yes,136,Full
+APT00754,P0115,2025-05-27,Sleep Specialist,Chronic Insomnia,Medication,Yes,244,None
+APT00350,P0119,2025-05-28,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,141,Full
+APT00786,P0026,2025-05-29,Cardiologist,Sleep Apnea,CPAP Machine,Yes,305,None
+APT00191,P0208,2025-05-30,Sleep Specialist,Stress Management,None,No,266,Partial
+APT00109,P0330,2025-05-30,General Practitioner,No Issues Found,Stress Reduction Techniques,Yes,167,Full
+APT00555,P0243,2025-06-01,Nutritionist,Lifestyle Counseling,Lifestyle Changes,No,126,Full
+APT00340,P0176,2025-06-02,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,331,Full
+APT00826,P0276,2025-06-02,General Practitioner,No Issues Found,Stress Reduction Techniques,No,96,Partial
+APT00249,P0177,2025-06-03,General Practitioner,Preventive Care,Exercise Program,No,107,None
+APT00680,P0299,2025-06-08,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,144,Partial
+APT00770,P0271,2025-06-08,Sleep Specialist,Lifestyle Issues,Medication,Yes,243,Partial
+APT00600,P0241,2025-06-08,Sleep Specialist,No Issues Found,Stress Reduction Techniques,No,291,None
+APT00516,P0130,2025-06-09,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,99,Full
+APT00250,P0021,2025-06-09,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,145,Full
+APT00060,P0296,2025-06-10,Psychologist,Stress-Related Insomnia,Lifestyle Changes,Yes,228,Full
+APT00342,P0074,2025-06-11,General Practitioner,Stress Management,Lifestyle Changes,No,124,Full
+APT00767,P0283,2025-06-11,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,93,Full
+APT00564,P0110,2025-06-12,Nutritionist,Lifestyle Issues,Lifestyle Changes,No,182,Partial
+APT00318,P0011,2025-06-12,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,283,Full
+APT00503,P0373,2025-06-13,General Practitioner,Sleep Apnea,CPAP Machine,Yes,163,Partial
+APT00440,P0061,2025-06-15,Cardiologist,Chronic Insomnia,Lifestyle Changes,Yes,312,Full
+APT00349,P0257,2025-06-16,Psychologist,Chronic Insomnia,Lifestyle Changes,Yes,170,Full
+APT00126,P0265,2025-06-16,General Practitioner,No Issues Found,Lifestyle Changes,No,121,None
+APT00124,P0077,2025-06-17,General Practitioner,Chronic Insomnia,Medication,Yes,90,Full
+APT00677,P0323,2025-06-17,General Practitioner,Stress-Related Insomnia,Medication,Yes,130,Partial
+APT00324,P0032,2025-06-17,Cardiologist,Preventive Care,Lifestyle Changes,No,335,Partial
+APT00229,P0159,2025-06-21,Sleep Specialist,Preventive Care,Stress Reduction Techniques,Yes,247,None
+APT00226,P0216,2025-06-21,Sleep Specialist,No Issues Found,Stress Reduction Techniques,No,223,Partial
+APT00030,P0251,2025-06-22,Cardiologist,Lifestyle Counseling,Lifestyle Changes,No,285,Partial
+APT00012,P0283,2025-06-23,General Practitioner,Lifestyle Issues,Sleep Hygiene Education,No,139,Partial
+APT00776,P0280,2025-06-25,Psychologist,Chronic Insomnia,Sleep Hygiene Education,Yes,218,Partial
+APT00817,P0203,2025-06-25,Cardiologist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,342,None
+APT00710,P0051,2025-06-25,General Practitioner,Sleep Apnea,CPAP Machine,Yes,159,Full
+APT00343,P0116,2025-06-27,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,314,Partial
+APT00628,P0239,2025-06-28,General Practitioner,Sleep Apnea,CPAP Machine,Yes,114,None
+APT00334,P0209,2025-06-28,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,No,250,None
+APT00145,P0301,2025-06-29,General Practitioner,Stress Management,None,No,148,Partial
+APT00841,P0013,2025-06-29,General Practitioner,Sleep Apnea,CPAP Machine,Yes,126,None
+APT00141,P0185,2025-06-29,General Practitioner,Preventive Care,None,No,98,Partial
+APT00507,P0162,2025-06-29,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,123,Full
+APT00181,P0172,2025-07-02,General Practitioner,Stress Management,Exercise Program,No,149,None
+APT00784,P0099,2025-07-03,Nutritionist,Lifestyle Counseling,Exercise Program,No,147,Full
+APT00020,P0116,2025-07-05,Cardiologist,Chronic Insomnia,Medication,Yes,338,Partial
+APT00690,P0078,2025-07-06,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,144,Full
+APT00047,P0309,2025-07-07,Nutritionist,Preventive Care,Lifestyle Changes,No,160,Partial
+APT00405,P0004,2025-07-08,General Practitioner,Stress Management,None,Yes,134,Partial
+APT00512,P0274,2025-07-09,Nutritionist,Sleep Apnea,CPAP Machine,Yes,130,Full
+APT00761,P0321,2025-07-09,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,190,Partial
+APT00205,P0179,2025-07-10,Nutritionist,Sleep Apnea,CPAP Machine,Yes,164,Full
+APT00762,P0037,2025-07-10,General Practitioner,Lifestyle Counseling,Exercise Program,Yes,121,Full
+APT00565,P0092,2025-07-10,General Practitioner,Preventive Care,Exercise Program,No,130,Full
+APT00173,P0013,2025-07-12,Nutritionist,Sleep Apnea,CPAP Machine,Yes,137,None
+APT00086,P0244,2025-07-12,Sleep Specialist,Stress-Related Insomnia,Lifestyle Changes,Yes,284,Full
+APT00827,P0203,2025-07-13,Sleep Specialist,Stress-Related Insomnia,Lifestyle Changes,Yes,235,Partial
+APT00595,P0306,2025-07-14,Nutritionist,Lifestyle Counseling,Stress Reduction Techniques,No,182,Full
+APT00388,P0167,2025-07-15,Psychologist,Lifestyle Counseling,Exercise Program,No,182,Full
+APT00631,P0053,2025-07-16,Sleep Specialist,Lifestyle Counseling,Exercise Program,No,264,Full
+APT00812,P0337,2025-07-19,General Practitioner,Sleep Apnea,CPAP Machine,Yes,167,Partial
+APT00554,P0091,2025-07-19,Sleep Specialist,Lifestyle Counseling,Exercise Program,No,278,Full
+APT00058,P0245,2025-07-22,Sleep Specialist,Chronic Insomnia,Medication,Yes,235,Full
+APT00345,P0343,2025-07-23,General Practitioner,Stress Management,Lifestyle Changes,No,117,Full
+APT00582,P0133,2025-07-23,Cardiologist,Preventive Care,Stress Reduction Techniques,Yes,343,Full
+APT00458,P0013,2025-07-24,Sleep Specialist,Sleep Apnea,Lifestyle Changes,Yes,273,Partial
+APT00369,P0130,2025-07-25,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,268,None
+APT00747,P0256,2025-07-25,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,277,None
+APT00706,P0266,2025-07-26,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,150,Partial
+APT00533,P0048,2025-07-27,Nutritionist,Sleep Apnea,Lifestyle Changes,Yes,176,None
+APT00169,P0346,2025-07-29,General Practitioner,Preventive Care,Stress Reduction Techniques,No,131,Full
+APT00645,P0249,2025-07-30,Nutritionist,Preventive Care,Lifestyle Changes,Yes,141,Partial
+APT00778,P0085,2025-07-31,General Practitioner,Sleep Apnea,CPAP Machine,Yes,126,Full
+APT00137,P0179,2025-07-31,Cardiologist,Sleep Apnea,CPAP Machine,Yes,277,Partial
+APT00057,P0041,2025-08-01,General Practitioner,No Issues Found,Lifestyle Changes,No,99,Full
+APT00599,P0049,2025-08-02,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,233,Full
+APT00234,P0288,2025-08-04,General Practitioner,Preventive Care,Lifestyle Changes,Yes,105,Full
+APT00581,P0005,2025-08-06,Psychologist,Preventive Care,Lifestyle Changes,Yes,219,Full
+APT00417,P0002,2025-08-07,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,Yes,168,None
+APT00410,P0144,2025-08-07,Cardiologist,Stress-Related Insomnia,Medication,Yes,288,Full
+APT00074,P0061,2025-08-08,Sleep Specialist,Lifestyle Issues,Cognitive Behavioral Therapy,No,220,Full
+APT00087,P0008,2025-08-08,Nutritionist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,148,Partial
+APT00803,P0148,2025-08-08,Psychologist,Sleep Apnea,Surgery Consultation,Yes,180,Full
+APT00641,P0297,2025-08-10,Cardiologist,Stress Management,Stress Reduction Techniques,No,274,None
+APT00424,P0043,2025-08-10,Sleep Specialist,Stress-Related Insomnia,Medication,Yes,281,Partial
+APT00001,P0354,2025-08-12,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,232,Partial
+APT00171,P0048,2025-08-12,Sleep Specialist,Sleep Apnea,CPAP Machine,Yes,265,Full
+APT00095,P0176,2025-08-13,Cardiologist,Sleep Apnea,Lifestyle Changes,Yes,349,Partial
+APT00493,P0358,2025-08-14,Psychologist,Stress Management,Lifestyle Changes,No,215,Full
+APT00156,P0318,2025-08-14,Cardiologist,No Issues Found,Exercise Program,No,310,Full
+APT00715,P0130,2025-08-16,Nutritionist,Sleep Apnea,CPAP Machine,Yes,199,Full
+APT00115,P0052,2025-08-16,Nutritionist,Sleep Apnea,CPAP Machine,Yes,142,Partial
+APT00362,P0294,2025-08-18,General Practitioner,Preventive Care,Stress Reduction Techniques,No,127,Partial
+APT00267,P0264,2025-08-19,Nutritionist,Lifestyle Issues,Lifestyle Changes,Yes,187,Full
+APT00084,P0252,2025-08-21,Sleep Specialist,Preventive Care,Lifestyle Changes,No,279,Partial
+APT00795,P0202,2025-08-21,Psychologist,Preventive Care,Lifestyle Changes,Yes,206,Full
+APT00739,P0169,2025-08-23,General Practitioner,Stress Management,Lifestyle Changes,No,101,Full
+APT00215,P0117,2025-08-23,Nutritionist,Stress Management,None,Yes,159,None
+APT00024,P0071,2025-08-23,Sleep Specialist,No Issues Found,Lifestyle Changes,No,280,None
+APT00810,P0045,2025-08-24,Sleep Specialist,Preventive Care,Lifestyle Changes,No,290,Partial
+APT00741,P0199,2025-08-25,Psychologist,Chronic Insomnia,Sleep Hygiene Education,Yes,197,None
+APT00289,P0175,2025-08-25,General Practitioner,Chronic Insomnia,Medication,Yes,140,None
+APT00389,P0005,2025-08-27,Psychologist,Preventive Care,None,No,204,Full
+APT00266,P0374,2025-08-27,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,133,None
+APT00566,P0120,2025-08-28,Cardiologist,Stress Management,Exercise Program,No,327,Partial
+APT00608,P0155,2025-08-29,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,No,233,None
+APT00112,P0002,2025-08-29,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,143,Partial
+APT00348,P0072,2025-08-31,Psychologist,Lifestyle Issues,Lifestyle Changes,Yes,164,Full
+APT00258,P0246,2025-09-01,Cardiologist,Lifestyle Counseling,Stress Reduction Techniques,No,286,None
+APT00576,P0066,2025-09-01,Cardiologist,Stress Management,None,No,342,Full
+APT00199,P0303,2025-09-02,Nutritionist,Stress-Related Insomnia,Lifestyle Changes,Yes,124,Full
+APT00485,P0072,2025-09-02,Psychologist,Chronic Insomnia,Lifestyle Changes,Yes,180,Partial
+APT00065,P0248,2025-09-04,General Practitioner,No Issues Found,None,No,161,Full
+APT00311,P0095,2025-09-04,Sleep Specialist,Stress Management,Lifestyle Changes,No,251,None
+APT00791,P0325,2025-09-04,Sleep Specialist,Preventive Care,None,No,259,Partial
+APT00712,P0113,2025-09-05,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,139,Full
+APT00535,P0116,2025-09-06,General Practitioner,Lifestyle Issues,Medication,No,152,Partial
+APT00580,P0219,2025-09-06,General Practitioner,Chronic Insomnia,Medication,Yes,140,Full
+APT00395,P0178,2025-09-06,Cardiologist,Chronic Insomnia,Medication,Yes,348,None
+APT00550,P0010,2025-09-07,Sleep Specialist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,266,Partial
+APT00531,P0072,2025-09-07,Cardiologist,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,345,Partial
+APT00453,P0154,2025-09-09,General Practitioner,Chronic Insomnia,Cognitive Behavioral Therapy,Yes,99,None
+APT00540,P0117,2025-09-09,Psychologist,Preventive Care,Exercise Program,No,200,None
+APT00625,P0068,2025-09-10,Cardiologist,Chronic Insomnia,Lifestyle Changes,Yes,280,Partial
+APT00392,P0060,2025-09-10,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,118,Full
+APT00828,P0314,2025-09-11,Sleep Specialist,Stress Management,Exercise Program,No,238,None
+APT00700,P0296,2025-09-11,Sleep Specialist,Lifestyle Issues,Medication,No,229,Partial
+APT00355,P0299,2025-09-12,Psychologist,Stress-Related Insomnia,Medication,Yes,193,Partial
+APT00752,P0250,2025-09-12,Cardiologist,Chronic Insomnia,Sleep Hygiene Education,Yes,284,Full
+APT00468,P0223,2025-09-12,General Practitioner,Lifestyle Issues,Medication,No,130,Full
+APT00244,P0101,2025-09-12,Cardiologist,Lifestyle Counseling,Lifestyle Changes,Yes,287,Partial
+APT00526,P0013,2025-09-13,Nutritionist,Sleep Apnea,CPAP Machine,Yes,181,Full
+APT00080,P0288,2025-09-13,General Practitioner,Stress Management,Exercise Program,No,156,Full
+APT00214,P0174,2025-09-14,General Practitioner,Stress Management,Lifestyle Changes,No,136,Full
+APT00361,P0055,2025-09-14,Sleep Specialist,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,275,Full
+APT00586,P0114,2025-09-15,General Practitioner,Lifestyle Counseling,Lifestyle Changes,Yes,166,Partial
+APT00265,P0339,2025-09-16,General Practitioner,Preventive Care,Stress Reduction Techniques,No,150,None
+APT00571,P0162,2025-09-18,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,276,Partial
+APT00336,P0137,2025-09-18,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,No,124,Partial
+APT00009,P0020,2025-09-19,Nutritionist,Stress-Related Insomnia,Medication,Yes,169,Partial
+APT00552,P0134,2025-09-20,Sleep Specialist,Chronic Insomnia,Lifestyle Changes,Yes,275,Partial
+APT00771,P0084,2025-09-20,General Practitioner,Stress Management,Exercise Program,No,155,Full
+APT00701,P0369,2025-09-22,General Practitioner,Sleep Apnea,Lifestyle Changes,Yes,145,Partial
+APT00496,P0172,2025-09-22,Psychologist,Preventive Care,Lifestyle Changes,No,159,Partial
+APT00151,P0314,2025-09-23,Sleep Specialist,Preventive Care,Exercise Program,Yes,263,Partial
+APT00139,P0255,2025-09-23,Sleep Specialist,No Issues Found,None,No,294,Full
+APT00451,P0121,2025-09-25,Nutritionist,Stress Management,Stress Reduction Techniques,Yes,151,Full
+APT00153,P0299,2025-09-25,Sleep Specialist,Lifestyle Issues,Sleep Hygiene Education,No,270,None
+APT00083,P0233,2025-09-26,General Practitioner,Preventive Care,Lifestyle Changes,Yes,132,Full
+APT00783,P0282,2025-09-27,Cardiologist,Preventive Care,Exercise Program,No,321,Full
+APT00099,P0292,2025-09-28,Sleep Specialist,Sleep Apnea,Surgery Consultation,Yes,224,Partial
+APT00525,P0177,2025-09-30,General Practitioner,No Issues Found,Stress Reduction Techniques,No,122,Partial
+APT00409,P0226,2025-09-30,General Practitioner,No Issues Found,Stress Reduction Techniques,No,144,None
+APT00096,P0185,2025-10-01,Sleep Specialist,Stress Management,Exercise Program,Yes,255,Full
+APT00609,P0132,2025-10-01,Nutritionist,Sleep Apnea,Surgery Consultation,Yes,135,Partial
+APT00209,P0366,2025-10-03,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,159,Full
+APT00777,P0268,2025-10-04,General Practitioner,Stress Management,Exercise Program,No,92,Partial
+APT00435,P0351,2025-10-04,General Practitioner,Lifestyle Counseling,Lifestyle Changes,No,115,Full
+APT00662,P0319,2025-10-07,Nutritionist,Sleep Apnea,CPAP Machine,Yes,169,Full
+APT00615,P0234,2025-10-09,General Practitioner,Lifestyle Counseling,Stress Reduction Techniques,No,108,Partial
+APT00678,P0106,2025-10-09,General Practitioner,Preventive Care,Lifestyle Changes,No,136,Full
+APT00309,P0072,2025-10-10,General Practitioner,Stress-Related Insomnia,Cognitive Behavioral Therapy,Yes,146,Full
+APT00781,P0039,2025-10-10,Psychologist,Stress Management,Exercise Program,No,212,Full
+APT00544,P0029,2025-10-10,Sleep Specialist,Lifestyle Counseling,Lifestyle Changes,No,224,Partial
+APT00602,P0018,2025-10-10,Nutritionist,Sleep Apnea,CPAP Machine,Yes,147,Partial
+APT00034,P0180,2025-10-11,Cardiologist,Stress Management,Stress Reduction Techniques,Yes,318,Partial
+APT00757,P0001,2025-10-13,General Practitioner,Chronic Insomnia,Sleep Hygiene Education,Yes,95,Full
+APT00025,P0015,2025-10-15,Sleep Specialist,Lifestyle Issues,Medication,Yes,242,Full
+APT00842,P0322,2025-10-15,Cardiologist,Stress Management,Stress Reduction Techniques,No,281,Partial
+APT00472,P0162,2025-10-15,General Practitioner,Stress-Related Insomnia,Medication,Yes,140,Full
+APT00082,P0168,2025-10-15,Sleep Specialist,Sleep Apnea,Surgery Consultation,Yes,294,None
+APT00386,P0350,2025-10-17,Sleep Specialist,Stress Management,Stress Reduction Techniques,No,298,Full
+APT00062,P0205,2025-10-18,General Practitioner,Sleep Apnea,CPAP Machine,Yes,166,Partial
+APT00429,P0197,2025-10-19,General Practitioner,No Issues Found,None,Yes,133,Full
+APT00664,P0017,2025-10-20,Sleep Specialist,No Issues Found,Stress Reduction Techniques,No,267,Partial
+APT00805,P0096,2025-10-21,General Practitioner,Lifestyle Issues,Sleep Hygiene Education,Yes,163,Full
+APT00233,P0256,2025-10-21,Sleep Specialist,No Issues Found,Lifestyle Changes,No,276,Partial
+APT00520,P0116,2025-10-22,Nutritionist,Stress-Related Insomnia,Sleep Hygiene Education,Yes,136,None
+APT00211,P0028,2025-10-27,Cardiologist,Lifestyle Counseling,Stress Reduction Techniques,No,294,Partial
+APT00650,P0096,2025-10-27,Cardiologist,Lifestyle Issues,Cognitive Behavioral Therapy,No,320,None
